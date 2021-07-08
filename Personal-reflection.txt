@@ -1,0 +1,33 @@
+1. How has your knowledge of the tech field changed since class began?
+
+Since the beginning of the class, my knowledge of the tech field was changed a lot especially with
+what I was expecting from it. for example, at the start of the class I had not realized that 
+there were so many different stacks and methods of solving the same problem. I also learned that 
+it takes a lot more than just knowing the code to solve some problems in the teh field.
+
+2. What was the most difficult part of Foundations for you? And how did you overcome that?
+
+After taking this class for 8 weeks, I felt that the most difficult part of foundations was 
+solving problems that I was completely new to. I enjoyed the fact that we were able to collaborate
+with a partner for each assignment and get multiple viewpoints of a certain topic.
+
+3. Did you learn anything about the way you learn? What was it?
+
+After foundations, I realized that I am much more of a visual learner rather than just a person
+that learns everything from only textbooks and powerpoints. Being able to learn a lot more from
+daily interactive lectures and assignmets helped me understand topics discussed more clearly.
+
+4. How will you apply what you know about your learning style during Specializations?
+
+Going into Specialization, I expect to use visual demonstrations for the topics dicussed to learn even
+more and really master each topic. Whether that be examples on google or demonstrations on Youtube.
+
+5. What was your experience with pair programming like?
+
+As mentioned previously, pair programming benefitted me a lot since it allowed me to get multiple viewpoints on
+certain assignments. It made me realize that there was not only just one way of solving a problem and that if I 
+did have a problem, there was someone else that might be able to help me think about it in a different way.
+
+6. What parts of Foundations did you enjoy the most? (This could be anything from a specific lab or lecture to the general setup of class or a funny moment.)
+
+Throughout the entirety of the foundations portion of this course there were many moments and labs that I really enjoyed. Specifically, the people within the course made it much more fun being a part of this program. I am definitley fortunate to be a part of this group of people since everyone made it possible to have fun learning everything about coding in different lanuages.
